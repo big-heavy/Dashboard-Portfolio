@@ -6,7 +6,6 @@ import InfoTiles from "../components/InfoTiles.vue";
 import EventScroller from "../components/EventScroller.vue";
 import HappySad from "../components/HappySad.vue";
 import DonutChart from "../components/DonutChart.vue";
-import RetroImage from "../components/RetroImage.vue";
 import GameAPI from "../components/GameAPI.vue";
 import APICloud from "../components/APICloud.vue";
 import APIReplit from "../components/APIReplit.vue";
@@ -20,7 +19,7 @@ import APIReplit from "../components/APIReplit.vue";
                 <InfoTiles />
                 <EventScroller />
                 <!-- <HappySad /> -->
-                <!-- <RetroImage /> -->
+               
                 <GameAPI />
                 <!--<APICloud />-->
                 <APIReplit />
