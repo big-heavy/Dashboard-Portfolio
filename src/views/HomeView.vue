@@ -9,20 +9,25 @@ import DonutChart from "../components/DonutChart.vue";
 import GameAPI from "../components/GameAPI.vue";
 import APICloud from "../components/APICloud.vue";
 import APIReplit from "../components/APIReplit.vue";
+import Prop from "../components/Prop.vue";
 </script>
 
 <template>
   <main>
-    <div class="column is-9">
+    <div class="column is-6">
                 <Navbar />
                 <WelcomeBanner />
                 <InfoTiles />
                 <EventScroller />
+                <Prop />
+                
+                
                 <!-- <HappySad /> -->
                 <h1> Vercel Test Change 2/28/2022 10:30 am</h1>
                 <GameAPI />
                 <!--<APICloud />-->
                 <APIReplit />
+                
 
      </div>
   </main>

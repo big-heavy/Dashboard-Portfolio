@@ -2,7 +2,6 @@
 import TheWelcome from "@/components/TheWelcome.vue";
 import Navbar from "../components/Navbar.vue";
 import WelcomeBannerCode from "../components/WelcomeBannerCode.vue";
-
 import InfoTiles from "../components/InfoTiles.vue";
 import EventScroller from "../components/EventScroller.vue";
 import CodeClick from "../components/CodeClick.vue";
