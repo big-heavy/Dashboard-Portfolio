@@ -14,7 +14,7 @@ import Prop from "../components/Prop.vue";
 
 <template>
   <main>
-    <div class="column is-6">
+    <div class="column is-9">
                 <Navbar />
                 <WelcomeBanner />
                 <InfoTiles />
